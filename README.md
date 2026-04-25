@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ian 👋
 
-<!--
-**ian807b/ian807b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS @ Simon Fraser University
+💼 Software Engineering Co-op @ DarkVision Technologies Inc. (Until August 2026)
 
-Here are some ideas to get you started:
+At DarkVision, I work on a C++20 Windows desktop application 
+for ultrasound data processing and 3D visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently looking for **intern / full-time** SWE roles.
+
+💬 Want to know more about me? Chat with my AI agent at [ianh0123.com](http://ianh0123.com)
+
+---
+
+**@ DarkVision**  
+C++20 · Python · AWS · PostgreSQL · pgAdmin · Grafana · Grafana Alloy · Prometheus  
+TeamCity · Octopus Deploy · Terraform · Docker · Linux · Windows
+
+**@ SFU & Personal**  
+React · Angular · TypeScript · JavaScript · HTML · CSS · Tailwind  
+Node.js · Express.js · FastAPI
