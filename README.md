@@ -4,7 +4,7 @@
 💼 Software Engineering Co-op @ DarkVision Technologies Inc. (Until August 2026)
 
 At DarkVision, I work on a C++20 Windows desktop application 
-for ultrasound data processing and 3D visualization.
+for ultrasound data processing.
 
 🔍 Currently looking for **intern / full-time** SWE roles.
 
